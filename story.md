@@ -1,3 +1,3 @@
-## Chapter 3: The Conflict Manager
+## The Conflict Manager
 
-The story of the chapter starts here.
+Chapter 2 starts here...
